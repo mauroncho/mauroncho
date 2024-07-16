@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+<!--- <img src="./github-header.png" width="600"> --->
 
 🤓 Electronics arts nerd  
 🎮 Web and videogames development  
