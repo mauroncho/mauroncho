@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-banner.png)
 
 🤓 Electronics arts nerd  
 🎮 Web and videogames development  
