@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 🤓 Electronics arts nerd  
 🎮 Web and videogames development  
 🌱 Currently learning node.js  
